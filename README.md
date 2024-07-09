@@ -69,3 +69,4 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 Add this test workflow trigger
+Add this using [skip ci] to verify workflow doesn't trigger
