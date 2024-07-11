@@ -70,5 +70,5 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 Add this test workflow trigger\
 Add this using [skip ci] to verify workflow doesn't trigger\
-Add this line in "test-pr" branch
+Add this line in "test-pr" branch\
 Add this line to test docker action
